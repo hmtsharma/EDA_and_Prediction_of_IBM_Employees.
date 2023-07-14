@@ -3,42 +3,42 @@
 DataSet Source : https://www.kaggle.com/datasets/rohitsahoo/employee
 This dataset have 1058 Rows and 36 Columns.
 ## About Dataset
-# Education
+## Education
 - 'Below College'
 - 'College'
 - 'Bachelor'
 - 'Master'
 - 'Doctor'
 
-# EnvironmentSatisfaction
+## EnvironmentSatisfaction
 - 'Low'
 - 'Medium'
 - 'High'
 - 'Very High'
 
-# JobInvolvement
+## JobInvolvement
 - 'Low'
 - 'Medium'
 - 'High'
 - 'Very High'
 
-# JobSatisfaction
+## JobSatisfaction
 - 'Low'
 - 'Medium'
 - 'High'
 - 'Very High'
 
-# PerformanceRating
+## PerformanceRating
 - 'Low'
 - 'Good'
 - 'Excellent'
 - 'Outstanding'
-# RelationshipSatisfaction
+## RelationshipSatisfaction
 - 'Low'
 - 'Medium'
 - 'High'
 - 'Very High'
-# WorkLifeBalance
+## WorkLifeBalance
 - 'Bad'
 - 'Good'
 - 'Better'
