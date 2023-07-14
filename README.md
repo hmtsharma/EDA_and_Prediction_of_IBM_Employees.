@@ -1,7 +1,8 @@
 # EDA_and_Prediction_of_IBM_Employees.
 
-DataSet Source : https://www.kaggle.com/datasets/rohitsahoo/employee
-This dataset have 1058 Rows and 36 Columns.
+* DataSet Source : https://www.kaggle.com/datasets/rohitsahoo/employee
+* This dataset have 1058 Rows and 36 Columns.
+
 ## About Dataset
 ## Education
 - 'Below College'
